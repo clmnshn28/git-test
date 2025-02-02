@@ -1,8 +1,7 @@
-# This is a heading
+# Starter Web Project
 
+## Introduction
 
-## This is a subheading
+## Purpose
 
-* This is a bullet point
-
-- This is a list type
+## How To Contribute
