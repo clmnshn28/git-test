@@ -1,6 +1,7 @@
 
-Hello this is a automatic merge
+Updating Title for Tagging compare Example 
 
+Hello this is a automatic merge
 
 Thankyou rebasing
 
